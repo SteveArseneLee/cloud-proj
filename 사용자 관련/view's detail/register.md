@@ -1,3 +1,4 @@
+일반적인 
 ```python
 def register(request):
     if request.method == 'GET':
